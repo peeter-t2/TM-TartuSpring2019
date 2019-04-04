@@ -1,3 +1,5 @@
+# Kiire näidis tekstitöötlusest. Sellest järgmistes tundides juba pikemalt.
+
 library(tidyverse)
 library(tidytext)
 
