@@ -13,7 +13,7 @@
 # Andmestikus on veel muutujaid, mida tükis ei käsitleta.
 
 
-# See käsk installid vajalikud paketid juhul kui need arvutis puuduvad
+# See käsk installib vajalikud paketid juhul kui need arvutis puuduvad
 lapply(c("gapminder","tidyverse"), 
        function(x) if(!is.element(x, installed.packages())) install.packages(x, dependencies = T))
 
