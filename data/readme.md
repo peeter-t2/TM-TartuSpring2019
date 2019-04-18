@@ -1,9 +1,23 @@
 ## Dataset information
 
-Corpus 
-  - ilvese-koned
-  - meri-orig
+```
+├── Corpus
+│   ├── laulusonad
+│   │   ├── eesti_top40
+│   │   └── usa_top100
+│   ├── presidentide_koned
+│   │   ├── 24.veebr
+│   │   ├── ilvese-koned
+│   │   └── meri-koned
+│   └── tidy_ilukirj
+│       ├── texts
+│       ├── lemmas
+│       └── postagged
+├── Uiboaed_stopwords
+└── readme.md
+```
 
-Uiboaed_stopwords lehelt http://datadoi.ut.ee/handle/33/78, viide info ja litsents seal.
+Andmestike info nende kataloogides
 
-Uiboaed, Kristel 2018. Eesti keele stoppsõnad / Estonian stop words http://dx.doi.org/10.15155/re-48
+Uiboaed_stopwords lehelt http://datadoi.ut.ee/handle/33/78, viide, info ja litsents seal.
+- Uiboaed, Kristel 2018. Eesti keele stoppsõnad / Estonian stop words http://dx.doi.org/10.15155/re-48
