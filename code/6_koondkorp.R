@@ -28,7 +28,7 @@ grid.newpage(); grid.raster(png::readPNG("slides/tidy_data.png")) #Pilt raamatus
 
 # Teeme nimekirja failidest
 filelist <- tibble(file_w_path=list.files("data/corpus/tidy_ilukirj/texts/",full.names=T)) %>% #failide nimekiri kataloogist
-  mutate(filename= gsub("data/corpus/tidy_ilukirj/texts//","",file_w_path)) #salvestame ka failinime eraldi
+  mutate(filename= basename(file_w_path)) #salvestame ka failinime eraldi
 
 # Ja loeme failid sisse
 # Vt abi https://serialmentor.com/blog/2016/6/13/reading-and-combining-many-tidy-data-files-in-R
@@ -36,6 +36,18 @@ data <- filelist %>% # failide nimed
   mutate(file_contents = map(file_w_path,  ~ read_tsv(.x)))  # võta failid ja loe nad uude tulpa
 
 data
+
+
+data %>%
+  unnest(file_contents) %>%
+  group_by(filename) %>% 
+  summarise(length=n()) %>% 
+  ggplot(aes(x=filename,y=length))+
+  geom_point()+
+  coord_flip()
+
+
+
 
 # Meil on ka metaandmed
 meta <- read_tsv("data/corpus/tidy_ilukirj/koond_iluk_tidy_meta.tsv")
@@ -338,7 +350,7 @@ sonad %>%
 # Lemmade kataloog tuleb enne lahti pakkida
 # Loeme sisse lemmade failid
 filelist <- tibble(file_w_path=list.files("data/corpus/tidy_ilukirj/lemmas/",full.names=T)) %>% #failide nimekiri kataloogist
-  mutate(filename= gsub("data/corpus/tidy_ilukirj/lemmas//","",file_w_path)) #salvestame ka failinime eraldi
+  mutate(filename= basename(file_w_path)) #salvestame ka failinime eraldi
 
 data <- filelist %>% # failide nimed
   mutate(file_contents = map(file_w_path,  ~ read_tsv(.x)))  # võta failid ja loe nad uude tulpa
@@ -424,7 +436,7 @@ text1 %>%
 
 # Failide nimistu
 filelist <- tibble(file_w_path=list.files("data/corpus/tidy_ilukirj/postagged/",full.names=T)) %>% #failide nimekiri kataloogist
-  mutate(filename= gsub("data/corpus/tidy_ilukirj/postagged//","",file_w_path)) #salvestame ka failinime eraldi
+  mutate(filename= basename(file_w_path)) #salvestame ka failinime eraldi
 
 # Tasub arvutit võimalikult vähe koormata
 # Valimie välja ainult ulmekirjanikud enne kui me loeme failid sisse
