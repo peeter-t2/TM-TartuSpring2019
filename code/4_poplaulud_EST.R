@@ -19,7 +19,7 @@ library(scales)
 
 
 # Loeme andmestiku
-edetabel <- read_tsv("data/eesti_top40/eesti_skyplus_top40_1994-2018.tsv")
+edetabel <- read_tsv("data/corpus/laulusonad/eesti_top40/eesti_skyplus_top40_1994-2018.tsv")
 
 
 

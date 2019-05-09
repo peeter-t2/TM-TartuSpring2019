@@ -1,23 +1,56 @@
 library(tidyverse)
 
-#tavaline
-text1 <- read_lines("data/lemmatiseerimine/ilves_100_orig.txt")
+####
+# Failide ühekaupa lugemiseks
+####
+
+text1 <- data_frame(txt=read_lines("data/corpus/presidentide_koned/24.veebr/texts/ilves_2007.txt")) %>%
+  mutate(filename="ilves_2007.txt")
+text2 <- data_frame(txt=read_lines("data/corpus/presidentide_koned/24.veebr/texts/ilves_2008.txt")) %>%
+  mutate(filename="ilves_2008.txt")
+text3 <- data_frame(txt=read_lines("data/corpus/presidentide_koned/24.veebr/texts/ilves_2009.txt")) %>%
+  mutate(filename="ilves_2009.txt")
+text4 <- data_frame(txt=read_lines("data/corpus/presidentide_koned/24.veebr/texts/ilves_2010.txt")) %>%
+  mutate(filename="ilves_2010.txt")
+
+#rbind == bind rows, ehk seo read kokku
+texts_together <- rbind(text1,text2,text3,text4)
+
+
+#####
+## Lemmatiseerimise näidis
+#####
+
+# lemmatiseerimata tekst
+text_plain <- read_lines("data/lemmatiseerimine/ilves_100_orig.txt")
 
 # https://tekstianalyys.utlib.ut.ee/ lemmatiseeritud tekst
-text2 <- read_lines("data/lemmatiseerimine/ilves_100_lemmas.txt")
+text_lemmas <- read_lines("data/lemmatiseerimine/ilves_100_lemmas.txt")
 
 # https://tekstianalyys.utlib.ut.ee/ morfoloogiliselt analüüsitud tekst
 # tulbad on eristatud komadega (csv ehk comma-separated values formaat)
 
-text3 <- read_csv("data/lemmatiseerimine/ilves_100_tagged.txt")
+text_tagged <- read_csv("data/lemmatiseerimine/ilves_100_tagged.txt")
 
 
-#loe palju faile korraga
+######
+# Loe palju faile korraga
+#######
 
-filelist <- list.files("data/corpus/presidentide_koned/24.veebr/",full.names=T,recursive = T)
+#Teeb etteantud kataloogi failidest nimekirja
+filelist <- list.files("data/corpus/presidentide_koned/24.veebr/texts/",full.names=T,recursive = T)
+#Loeb sisse failid 'filelist' põhjal
 texts <- map_df(filelist, ~ data_frame(txt = read_lines(.x)) %>%
                   mutate(filename = .x)) %>%
   mutate(filename= basename(filename))
+
+#Sama lemmade jaoks
+filelist <- list.files("data/corpus/presidentide_koned/24.veebr/lemmas/",full.names=T,recursive = T)
+lemmas <- map_df(filelist, ~ data_frame(txt = read_lines(.x)) %>%
+                  mutate(filename = .x)) %>%
+  mutate(filename= basename(filename))
+
+
 
 
 # Meil on failinimedes info nii aasta kui ka presidendi kohta.

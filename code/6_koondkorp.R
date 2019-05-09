@@ -125,6 +125,8 @@ sonad
 # mutate - loo uus tulp
 # str_detect(koht, otsing) - otsi poolsõna
 # str_extract(koht, otsing) - võta leitav tekst välja
+# str_replace(koht, otsing, asendus) - asenda sõnaosa millegagi
+# str_remove(koht, otsing) - asenda otsitud sõna millegagi (str_extracti vastand)
 # count(muutuja, sort=T) - muutuja variantide esinemiskordade arv
 # unnest - võta andmestik pesast välja
 # unnest_tokens - jaota tekstiväli mitmele reale

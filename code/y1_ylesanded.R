@@ -1,3 +1,6 @@
+# Harjutusülesanded tunnis
+
+
 #alustuseks puhastame töölaua
 ls() #- nimekiri sisseloetud muutujatest
 
@@ -8,7 +11,7 @@ rm(list=ls()) #eemaldab need muutujad
 # Valida on 4 andmestiku vahel: 1) presidentide kõned, 2) laulusõnad, 3) koondkorpuse ilukirjandus, 4) gutenbergi kogu. Käsud failide sisselugemiseks on varasemates skriptides. Võib töötada ka ainult ühe tekstiga.
 
 
-# 2. Tee oma tekstist sagedusloend. 
+# 2. Tee oma tekstist sõnade sagedusloend. 
 
 
 
