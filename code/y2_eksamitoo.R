@@ -46,13 +46,13 @@ Kood
 
 # 3. Millised olid 10 levinumat sõna eestikeelsetes tekstides aastal 1999?
 
-# 4. Millised olid 10 kõige sagedamat kolmgrammi aastal 2002? (vihje: poplaulude failis on vahendid kolmgrammide loomiseks)
+# 4. Millised olid 10 kõige sagedamat kolmgrammi aastal 2000? (vihje: poplaulude failis on vahendid kolmgrammide loomiseks)
 
-# 5. Millised 10 kolmgrammi esinesid kõige rohkemates lugudes aastal 2002? (vihje: group_by; ungroup)
+# 5. Millised 10 kolmgrammi esinesid kõige rohkemates lugudes kõigi aastate peale kokku? (vihje: group_by; ungroup)
 
 
 
-# 6. Loe sisse presidentide 24. veebruari kõnede toortekstid.
+# 6. Loe sisse presidentide 24. veebruari kõnede toortekstid. (vihje: kõnede sisselugemiseks on kood read_files.R juures)
 
 # 7. Tee tekstidest sagedusloend ja eemalda stopsõnad
 
