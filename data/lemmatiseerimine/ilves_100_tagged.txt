@@ -1,0 +1,1188 @@
+word_texts,lemmas,postags,forms
+Lugupeetav,lugupeetav,A,sg n
+Riigikogu,riigikogu,S,sg g
+esimees,esimees,S,sg n
+",",",",Z,
+austatavad,austatav,A,pl n
+Riigikogu,riigikogu,S,sg g
+liikmed,liige,S,pl n
+",",",",Z,
+peaminister,peaminister,S,sg n
+ja,ja,J,
+valitsuse,valitsus,S,sg g
+liikmed,liige,S,pl n
+",",",",Z,
+Riigikohtu,riigikohus,S,sg g
+esimees,esimees,S,sg n
+",",",",Z,
+õiguskantsler,õiguskantsler,S,sg n
+",",",",Z,
+riigikontrolör,riigikontrolör,S,sg n
+.,.,Z,
+Riigikogu,riigikogu,S,sg g
+XII,XII,O,?
+koosseis,koosseis,S,sg n
+on,olema,V,b|vad
+ületanud,ületama|ületanud,A|V,|nud|pl n|sg n
+ekvaatori,ekvaator,S,sg g
+.,.,Z,
+(,(,Z,
+Ma,mina,P,sg n
+ei,ei,V,neg
+pea,pidama,V,o
+silmas,silm,S,sg in
+ümber,ümber,D,
+maakera,maakera,S,sg g
+reisimist,reisimine,S,sg p
+),),Z,
+Enam,enam,D,
+kui,kui,D|J,
+pool,pool,N,sg n
+2011.,2011.,O,?
+aastal,aasta,S,sg ad
+valitud,valima|valitud,A|V,|pl n|sg n|tud
+Riigikogu,riigikogu,S,sg g
+tööajast,tööaeg,S,sg el
+on,olema,V,b|vad
+möödas,möödas,D,
+.,.,Z,
+Aeg,aeg,S,sg n
+",",",",Z,
+millesse,mis,P,pl ill|sg ill
+langevad,langema,V,vad
+XII,XII,O,?
+Riigikogu,riigikogu,S,sg g
+volitused,volitus,S,pl n
+",",",",Z,
+on,olema,V,b|vad
+olnud,olema|olnud,A|V,|nud|pl n|sg n
+murranguline,murranguline,A,sg n
+.,.,Z,
+Kogu,kogu,A,
+maailma,maailm,S,sg g
+jaoks,jaoks,K,
+:,:,Z,
+Occupy,Occupy,H,sg n
+Wall,Wall,H,sg n
+Street,Street,H,sg n
+ja,ja,J,
+Snowden,Snowden,H,sg n
+",",",",Z,
+majanduslik,majanduslik,A,sg n
+murdumine,murdumine,S,sg n
+mõnedes,mõni,P,pl in
+Euroopa,Euroopa,H,sg g
+Liidu,Liidu|Liidud|Liit,H,sg g
+liikmesriikides,liikmesriik,S,pl in
+",",",",Z,
+Araabia,Araabia,H,sg g
+kevad,kevad,S,sg n
+ja,ja,J,
+ettenägematu,ettenägematu,A,sg g
+lõpuga,lõpp,S,sg kom
+võitlused,võitlus,S,pl n
+Egiptuses,Egiptus,H,sg in
+",",",",Z,
+Süürias,Süüria,H,sg in
+",",",",Z,
+mujal,mujal,D,
+.,.,Z,
+Midagi,miski,P,sg p
+põhimõttelist,põhimõtteline,A,sg p
+on,olema,V,b|vad
+kõikjal,kõikjal,D,
+muutunud,muutuma|muutunud,A|V,|nud|pl n|sg n
+.,.,Z,
+Paremaks,parem,C,sg tr
+",",",",Z,
+halvemaks,halvem,C,sg tr
+või,või,J,
+lihtsalt,lihtsalt,D,
+teistsuguseks,teistsugune,P,sg tr
+.,.,Z,
+See,see,P,sg n
+aeg,aeg,S,sg n
+on,olema,V,b|vad
+olnud,olema|olnud,A|V,|nud|pl n|sg n
+murranguline,murranguline,A,sg n
+ka,ka,D,
+Eesti,Eesti,H,sg g
+jaoks,jaoks,K,
+.,.,Z,
+Eesti,Eesti,H,sg n
+on,olema,V,b|vad
+masust,masu,S,sg el
+välja,välja,D,
+tulnud,tulema|tulnud,A|V,|nud|pl n|sg n
+.,.,Z,
+Majandusareng,majandusareng,S,sg n
+on,olema,V,b|vad
+ületanud,ületama|ületanud,A|V,|nud|pl n|sg n
+piiri,piir,S,sg p
+",",",",Z,
+millest,mis,P,pl el|sg el
+inimeste,inimene,S,pl g
+väärtused,väärtus,S,pl n
+ja,ja,J,
+elueesmärgid,elueesmärk,S,pl n
+suunduvad,suunduma,V,vad
+pelgalt,pelgalt,D,
+ellujäämiselt,ellujäämine,S,sg abl
+eneseteostuse,eneseteostus,S,sg g
+poole,poole,K,
+;,;,Z,
+seega,seega,D,
+muutuvad,muutuma,V,vad
+inimesed,inimene,S,pl n
+aga,aga,J,
+ka,ka,D,
+olevaga,olev,S,sg kom
+rahulolematumaks,rahulolematumaks,S,sg n
+.,.,Z,
+Lugege,lugema,V,ge
+Eesti,Eesti,H,sg g
+Inimarengu,inimareng,S,sg g
+aruannet,aruanne,S,sg p
+2012/2013,2012/2013,N,?
+",",",",Z,
+vaadelge,vaatlema,V,ge
+väärtuste,väärtus,S,pl g
+ja,ja,J,
+hoiakute,hoiak,S,pl g
+muutumist,muutumine,S,sg p
+.,.,Z,
+Nägime,nägema,V,sime
+Eestis,Eesti,H,sg in
+streike,streik,S,pl p
+ja,ja,J,
+meeleavaldusi,meeleavaldus,S,pl p
+.,.,Z,
+Näeme,nägema,V,me
+ja,ja,J,
+tajume,tajuma,V,me
+inimeste,inimene,S,pl g
+kasvanud,kasvama|kasvanud,A|V,|nud|pl n|sg n
+nõudlikkust,nõudlikkus,S,sg p
+.,.,Z,
+Elav,elav,A,sg n
+ja,ja,J,
+mõjukas,mõjukas,A,sg n
+kodanikuühiskond,kodanikuühiskond,S,sg n
+on,olema,V,b|vad
+suur,suur,A,sg n
+väärtus,väärtus,S,sg n
+.,.,Z,
+Seda,see,P,sg p
+oleme,olema,V,me
+ju,ju,D,
+soovinud,soovima|soovinud,A|V,|nud|pl n|sg n
+.,.,Z,
+Kodanikuühiskonna,kodanikuühiskond,S,sg g
+tugevnemine,tugevnemine,S,sg n
+",",",",Z,
+selle,see,P,sg g
+nähtavaks,nähtav,A,sg tr
+ja,ja,J,
+mõjukaks,mõjukas,A,sg tr
+muutumine,muutumine,S,sg n
+on,olema,V,b|vad
+olnud,olema|olnud,A|V,|nud|pl n|sg n
+minu,mina,P,sg g
+ametiajaks,ametiaeg,S,sg tr
+seatud,seadma|seatud,A|V,|pl n|sg n|tud
+eesmärk,eesmärk,S,sg n
+juba,juba,D,
+mu,mina,P,sg g
+esimesest,esimene,O,sg el
+kõnest,kõne,S,sg el
+ametisse,amet,S,sg ill
+astumisel,astumine,S,sg ad
+2006.,2006.,O,?
+aastal,aasta,S,sg ad
+just,just,D|I,
+selles,see,P,sg in
+puldis,pult,S,sg in
+.,.,Z,
+Riigikogul,riigikogu,S,sg ad
+ja,ja,J,
+valitsusel,valitsus,S,sg ad
+on,olema,V,b|vad
+võimalus,võimalus,S,sg n
+ja,ja,J,
+kohustus,kohustus,S,sg n
+rahva,rahvas,S,sg g
+kasvanud,kasvama|kasvanud,A|V,|nud|pl n|sg n
+ootustele,ootus,S,pl all
+vastata,vastama,V,da
+.,.,Z,
+See,see,P,sg n
+ei,ei,V,neg
+ole,olema,V,o
+lihtne,lihtne,A,sg n
+",",",",Z,
+kui,kui,D|J,
+ühed,üks,P,pl n
+ülistavad,ülistama,V,vad
+teoreetilist,teoreetiline,A,sg p
+marksismi,marksism,S,sg p
+",",",",Z,
+teised,teine,O|P,pl n
+usuvad,uskuma,V,vad
+pimesi,pimesi,D,
+turgudesse,turg,S,pl ill
+",",",",Z,
+kolmandad,kolmas,O,pl n
+kiruvad,kiruma,V,vad
+kunagiste,kunagine,A,pl g
+vapside,vaps,S,pl g
+moel,mood,S,sg ad
+erakondi,erakond,S,pl p
+ja,ja,J,
+ootavad,ootama,V,vad
+kõva,kõva,A,sg g
+käe,käsi,S,sg g
+karmi,karm,A,sg p
+kehtestamist,kehtestamine,S,sg p
+.,.,Z,
+Head,hea,A,pl n
+teadlased,teadlane,S,pl n
+ja,ja,J,
+arvajad,arvaja,S,pl n
+",",",",Z,
+pakkuge,pakkuma,V,ge
+siis,siis,D,
+oma,oma,P,sg g
+eelistatud,eelistama|eelistatud,A|V,|pl n|sg n|tud
+valikud,valik,S,pl n
+välja,välja,D,
+konkreetselt,konkreetselt,D,
+ja,ja,J,
+arusaadavalt,arusaadavalt,D,
+.,.,Z,
+Selgitage,selgitama,V,ge
+",",",",Z,
+kuidas,kuidas,D,
+neid,see,P,pl p
+saavutada,saavutama,V,da
+.,.,Z,
+Vaid,vaid,D,
+nii,nii,D,
+saame,saama,V,me
+arutelu,arutelu,S,sg p
+edasi,edasi,D,
+viia,viima,V,da
+.,.,Z,
+Samuti,samuti,D,
+riigivalitsemise,riigivalitsemine,S,sg g
+asjus,asi,S,pl in
+.,.,Z,
+Ühed,üks,P,pl n
+nõuavad,nõudma,V,vad
+otsedemokraatiat,otsedemokraatia,S,sg p
+",",",",Z,
+vastamata,vastama,V,mata
+küsimusele,küsimus,S,sg all
+",",",",Z,
+kas,kas,D,
+iga,iga,P,sg n
+seaduseparandus,seaduseparandus,S,sg n
+tuleks,tulema,V,ks
+elektrooniliselt,elektrooniliselt,D,
+rahvahääletusele,rahvahääletus,S,sg all
+panna,panema,V,da
+.,.,Z,
+Teised,teine,O|P,pl n
+jätkavad,jätkama,V,vad
+igasuguste,igasugune,P,pl g
+muutuste,muutus,S,pl g
+ootuste,ootus,S,pl g
+ülbet,ülbe,A,sg p
+ignoreerimist,ignoreerimine,S,sg p
+",",",",Z,
+ajades,ajama,V,des
+ikka,ikka,D,
+sama,sama,P,sg g
+jäika,jäik,A,sg p
+parteilis-elitaristlikku,parteilis-elitaristlik,A,sg p
+poliitikat,poliitika,S,sg p
+.,.,Z,
+Enamus,enamus,S,sg n
+arvamusi,arvamus,S,pl p
+jääb,jääma,V,b
+nende,see,P,pl g
+teljeotste,teljeots,S,pl g
+vahele,vahele,K,
+.,.,Z,
+Mina,mina,P,sg n
+sooviksin,soovima,V,ksin
+Eestile,Eesti,H,sg all
+tarka,tark,A,sg p
+ja,ja,J,
+konkurentsitihedat,konkurentsitihe,A,sg p
+valitsemist,valitsemine,S,sg p
+.,.,Z,
+Aga,aga,J,
+kuidas,kuidas,D,
+seda,see,P,sg p
+saavutada,saavutama,V,da
+?,?,Z,
+Ilmar,Ilmar,H,sg n
+Raag,Raag,H,sg n
+ütles,ütlema,V,s
+hiljuti,hiljuti,D,
+Postimehes,Postimees|Postimehe,H,sg in
+tabavalt,tabavalt,D,
+",",",",Z,
+et,et,J,
+demokraatiasse,demokraatia,S,sg ill
+on,olema,V,b|vad
+ebareaalsete,ebareaalne,A,pl g
+ootuste,ootus,S,pl g
+toitmine,toitmine,S,sg n
+ja,ja,J,
+sestap,sestap,D,
+mõistagi,mõistagi,D,
+pettumine,pettumine,S,sg n
+sisse,sisse,D,
+programmeeritud,programmeerima|programmeeritud,A|V,|pl n|sg n|tud
+.,.,Z,
+Tõepoolest,tõepoolest,D,
+",",",",Z,
+ajalugu,ajalugu,S,sg n
+ja,ja,J,
+elu,elu,S,sg n
+näitab,näitama,V,b
+",",",",Z,
+et,et,J,
+inimeste,inimene,S,pl g
+nõudmised,nõudmine,S,pl n
+ei,ei,V,neg
+kahane,kahanema,V,o
+",",",",Z,
+kui,kui,D|J,
+senised,senine,A,pl n
+ootused,ootus,S,pl n
+on,olema,V,b|vad
+täitunud,täituma|täitunud,A|V,|nud|pl n|sg n
+.,.,Z,
+Asemele,asemele,D,
+tulevad,tulema,V,vad
+uued,uus,A,pl n
+ootused,ootus,S,pl n
+–,-,Z,
+ja,ja,J,
+pettumise,pettumine,S,sg g
+võimalused,võimalus,S,pl n
+.,.,Z,
+See,see,P,sg n
+ongi,olema,V,b|vad
+progress,progress,S,sg n
+",",",",Z,
+mida,mis,P,pl p|sg p
+siin,siin,D,
+imestada,imestama,V,da
+.,.,Z,
+Aga,aga,J,
+näidakem,näitama,V,gem
+Eestis,Eesti,H,sg in
+eeskuju,eeskuju,S,sg p
+.,.,Z,
+Ausameelsel,ausameelne,A,sg ad
+kokkuleppel,kokkulepe,S,sg ad
+peaks,pidama,V,ks
+olema,olema,V,ma
+võimalik,võimalik,A,sg n
+loobuda,loobuma,V,da
+teostamatute,teostamatu,A,pl g
+lubaduste,lubadus,S,pl g
+andmisest,andmine,S,sg el
+ja,ja,J,
+vaenu,vaen,S,sg g
+külvamisest,külvamine,S,sg el
+.,.,Z,
+Meie,mina,P,pl g
+ideaal,ideaal,S,sg n
+võiks,võima,V,ks
+olla,olema,V,da
+",",",",Z,
+et,et,J,
+erakonnad,erakond,S,pl n
+ja,ja,J,
+valimisliidud,valimisliit,S,pl n
+pakuvad,pakkuma,V,vad
+valimistel,valimine,S,pl ad
+välja,välja,D,
+teostatavaid,teostatav,A,pl p
+eesmärke,eesmärk,S,pl p
+ning,ning,J,
+valijad,valija,S,pl n
+ignoreerivad,ignoreerima,V,vad
+kandidaate,kandidaat,S,pl p
+",",",",Z,
+kes,kes,P,pl n|sg n
+petavad,petma,V,vad
+ja,ja,J,
+ässitavad,ässitama,V,vad
+või,või,J,
+pakuvad,pakkuma,V,vad
+sisutuid,sisutu,A,pl p
+loosungeid,loosung,S,pl p
+.,.,Z,
+Rahvas,rahvas,S,sg n
+tahab,tahtma,V,b
+kaasa,kaasa,D,
+mõelda,mõtlema,V,da
+ja,ja,J,
+kaalutletud,kaalutlema|kaalutletud,A|V,|pl n|sg n|tud
+seisukohad,seisukoht,S,pl n
+avalikult,avalikult,D,
+välja,välja,D,
+öelda,ütlema,V,da
+.,.,Z,
+Seda,see,P,sg p
+näitas,näitama,V,s
+Rahvakogu,rahvakogu,S,sg n
+.,.,Z,
+Seda,see,P,sg p
+nägime,nägema,V,sime
+Arvamusfestivalil,arvamusfestival,S,sg ad
+.,.,Z,
+Samas,samas,D,
+tekib,tekkima,V,b
+igas,iga,P,sg in
+ühiskonnas,ühiskond,S,sg in
+paratamatult,paratamatult,D,
+tööjaotus,tööjaotus,S,sg n
+.,.,Z,
+Sestap,sestap,D,
+vaidleksin,vaidlema,V,ksin
+jätkuvalt,jätkuvalt,D,
+nendega,see,P,pl kom
+",",",",Z,
+kes,kes,P,pl n|sg n
+nõuavad,nõudma,V,vad
+puhast,puhas,A,sg p
+otsedemokraatiat,otsedemokraatia,S,sg p
+.,.,Z,
+Rahvakogu,rahvakogu,S,sg g
+eesmärkide,eesmärk,S,pl g
+mõistmiseks,mõistmine,S,sg tr
+soovitan,soovitama,V,n
+teil,sina,P,pl ad
+tutvuda,tutvuma,V,da
+meid,mina,P,pl p
+suvel,suvi,S,sg ad
+väisanud,väisama|väisanud,A|V,|nud|pl n|sg n
+professor,professor,S,sg n
+James,James,H,sg n
+Fishkini,Fishkini,H,sg n
+ideedega,idee,S,pl kom
+kaalutlevast,kaalutlev,A,sg el
+demokraatiast,demokraatia,S,sg el
+.,.,Z,
+Kuid,kuid,J,
+et,et,J,
+mõista,mõistma,V,da
+omaenda,omaenese,P,sg g
+sügavat,sügav,A,sg p
+parlamentaarset,parlamentaarne,A,sg p
+traditsiooni,traditsioon,S,sg p
+",",",",Z,
+soovitan,soovitama,V,n
+lugeda,lugema,V,da
+näiteks,näide,S,sg tr
+Ilmar,Ilmar,H,sg n
+Tõnissoni,Tõnisson,H,sg g
+mõtteid,mõte,S,pl p
+tema,tema,P,sg g
+1931.,1931.,O,?
+aastal,aasta,S,sg ad
+avaldatud,avaldama|avaldatud,A|V,|pl n|sg n|tud
+esseest,essee,S,sg el
+"""","""",Z,
+Parlamentarismi,Parlamentarism|Parlamentarismi,H,sg g
+eeldused,eeldus,S,pl n
+""".",""".",Z,
+Teisalt,teisalt,D,
+vaidlen,vaidlema,V,n
+jätkuvalt,jätkuvalt,D,
+nendega,see,P,pl kom
+",",",",Z,
+kes,kes,P,pl n|sg n
+leiavad,leidma,V,vad
+",",",",Z,
+et,et,J,
+otsused,otsus,S,pl n
+tulebki,tulema,V,b
+teha,tegema,V,da
+kitsas,kitsas,A,sg in
+ringis,ring,S,sg in
+suletud,suletud|sulgema,A|V,|pl n|sg n|tud
+ukse,uks,S,sg g
+taga,taga,K,
+–,-,Z,
+parlamentarism,parlamentarism,S,sg n
+ei,ei,V,neg
+tähenda,tähendama,V,o
+ka,ka,D,
+seda,see,P,sg p
+.,.,Z,
+Vastupidi,vastupidi,D,
+:,:,Z,
+inimestel,inimene,S,pl ad
+peab,pidama,V,b
+käes,käsi,S,sg in
+olema,olema,V,ma
+arvamuste,arvamus,S,pl g
+kujundamiseks,kujundamine,S,sg tr
+vajalik,vajalik,A,sg n
+teave,teave,S,sg n
+ja,ja,J,
+inimesi,inimene,S,pl p
+tuleb,tulema,V,b
+otsuste,otsus,S,pl g
+langetamisel,langetamine,S,sg ad
+kuulata,kuulama,V,da
+.,.,Z,
+Rahvakogu,rahvakogu,S,sg g
+ettepanekute,ettepanek,S,pl g
+läbiarutamiseks,läbiarutamine,S,sg tr
+ja,ja,J,
+vajalike,vajalik,A,pl g
+seadusmuudatuste,seadusmuudatus,S,pl g
+tegemiseks,tegemine,S,sg tr
+on,olema,V,b|vad
+jäänud,jääma|jäänud,A|V,|nud|pl n|sg n
+vaid,vaid,D,
+mõned,mõni,P,pl n
+kuud,kuu,S,sg p
+.,.,Z,
+Ma,mina,P,sg n
+tunnustan,tunnustama,V,n
+Riigikogu,riigikogu,S,sg g
+põhiseaduskomisjoni,põhiseaduskomisjon,S,sg g
+valmisolekut,valmisolek,S,sg p
+nende,tema,P,pl g
+põhjal,põhjal,K,
+seadusemuudatusi,seadusemuudatus,S,pl p
+visandada,visandama,V,da
+.,.,Z,
+Austatavad,austatav,A,pl n
+Riigikogu,riigikogu,S,sg g
+liikmed,liige,S,pl n
+",",",",Z,
+palun,paluma,V,n
+ärge,ära,V,neg ge
+sundige,sundima,V,ge
+meid,mina,P,pl p
+pettuma,pettuma,V,ma
+.,.,Z,
+Head,hea,A,pl n
+mõttekaaslased,mõttekaaslane,S,pl n
+",",",",Z,
+Kohaliku,kohalik,A,sg g
+omavalitsuse,omavalitsus,S,sg g
+ja,ja,J,
+hariduse,haridus,S,sg g
+reformide,reform,S,pl g
+taustal,taust,S,sg ad
+tahan,tahtma,V,n
+rõhutada,rõhutama,V,da
+väikeriigi,väikeriik,S,sg g
+filosoofia,filosoofia,S,sg g
+vajalikkust,vajalikkus,S,sg p
+.,.,Z,
+Eestis,Eesti,H,sg in
+ei,ei,V,neg
+ole,olema,V,o
+nii,nii,D,
+palju,palju,D,
+inimesi,inimene,S,pl p
+ega,ega,J,
+vahendeid,vahend,S,pl p
+",",",",Z,
+et,et,J,
+jäljendada,jäljendama,V,da
+suurriikide,suurriik,S,pl g
+haldusmudeleid,haldusmudel,S,pl p
+ja,ja,J,
+pillata,pillama,V,da
+aega,aeg,S,sg p
+asendustegevusele,asendustegevus,S,sg all
+.,.,Z,
+Eestil,Eesti,H,sg ad
+on,olema,V,b|vad
+harukordne,harukordne,A,sg n
+võimalus,võimalus,S,sg n
+olla,olema,V,da
+paindlik,paindlik,A,sg n
+",",",",Z,
+uuendusmeelne,uuendusmeelne,A,sg n
+",",",",Z,
+lihtne,lihtne,A,sg n
+ja,ja,J,
+loogiline,loogiline,A,sg n
+.,.,Z,
+Selgitada,selgitama,V,da
+välja,välja,D,
+tegelikud,tegelik,A,pl n
+mured,mure,S,pl n
+",",",",Z,
+otsida,otsima,V,da
+neile,tema,P,pl all
+parimad,parim,U,pl n
+lahendused,lahendus,S,pl n
+ja,ja,J,
+viia,viima,V,da
+muudatused,muudatus,S,pl n
+julgelt,julgelt,D,
+läbi,läbi,D,
+.,.,Z,
+Väikeriik,väikeriik,S,sg n
+annab,andma,V,b
+suuri,suur,A,pl p
+eeliseid,eelis,S,pl p
+.,.,Z,
+Me,mina,P,pl n
+võime,võima,V,me
+jõuda,jõudma,V,da
+iga,iga,P,sg g
+inimeseni,inimene,S,sg ter
+",",",",Z,
+kui,kui,D|J,
+vaid,vaid,D,
+tahame,tahtma,V,me
+.,.,Z,
+Andkem,andma,V,gem
+rohkem,rohkem,D,
+ruumi,ruum,S,sg p
+ettevõtlikkusele,ettevõtlikkus,S,sg all
+kõige,kõige,D,
+laiemas,laiem,C,sg in
+tähenduses,tähendus,S,sg in
+.,.,Z,
+Ärgem,ära,V,neg gem
+summutagem,summutama,V,gem
+tehatahtmist,tehatahtmine,S,sg p
+ühtlustamise,ühtlustamine,S,sg g
+",",",",Z,
+ülekorraldamise,ülekorraldamine,S,sg g
+",",",",Z,
+tsentraliseerimisega,tsentraliseerimine,S,sg kom
+.,.,Z,
+Need,see,P,pl n
+",",",",Z,
+suurriiklikud,suurriiklik,A,pl n
+lähenemised,lähenemine,S,pl n
+ei,ei,V,neg
+sobi,sobima,V,o
+meile,mina,P,pl all
+.,.,Z,
+Peame,pidama,V,me
+olema,olema,V,ma
+palju,palju,D,
+nõudlikumad,nõudlikum,C,pl n
+ja,ja,J,
+kokkuhoidlikumad,kokkuhoidlikum,C,pl n
+.,.,Z,
+Meile,mina,P,pl all
+on,olema,V,b|vad
+seni,seni,D,
+toonud,tooma|toonud,A|V,|nud|pl n|sg n
+edu,edu,S,sg g
+mõistlikkus,mõistlikkus,S,sg n
+",",",",Z,
+uuendusjulgus,uuendusjulgus,S,sg n
+ja,ja,J,
+loogilisus,loogilisus,S,sg n
+.,.,Z,
+Me,mina,P,pl n
+vajame,vajama,V,me
+lahendusi,lahendus,S,pl p
+just,just,D|I,
+Eesti,Eesti,H,sg g
+jaoks,jaoks,K,
+",",",",Z,
+lähtudes,lähtuma,V,des
+meie,mina,P,pl g
+inimestest,inimene,S,pl el
+ja,ja,J,
+meie,mina,P,pl g
+maast,maa,S,sg el
+.,.,Z,
+Selleks,see,P,sg tr
+",",",",Z,
+et,et,J,
+käsil,käsil,D,
+olevad,olev,A,pl n
+uuenduskavad,uuenduskava,S,pl n
+annaksid,andma,V,ksid
+soovitud,soovima|soovitud,A|V,|pl n|sg n|tud
+tulemuse,tulemus,S,sg g
+",",",",Z,
+peame,pidama,V,me
+kõik,kõik,P,pl n|sg n
+kaasa,kaasa,D,
+mõtlema,mõtlema,V,ma
+.,.,Z,
+Ärgem,ära,V,neg gem
+kartkem,kartma,V,gem
+muutusi,muutus,S,pl p
+",",",",Z,
+ent,ent,J,
+ärgem,ära,V,neg gem
+lootkem,lootma,V,gem
+tulemusi,tulemus,S,pl p
+",",",",Z,
+mida,mis,P,pl p|sg p
+ei,ei,V,neg
+ole,olema,V,o
+võimalik,võimalik,A,sg n
+saavutada,saavutama,V,da
+.,.,Z,
+Ärgem,ära,V,neg gem
+kartkem,kartma,V,gem
+parandada,parandama,V,da
+otsuseid,otsus,S,pl p
+",",",",Z,
+mis,mis,P,pl n|sg n
+tänase,tänane,A,sg g
+teadmise,teadmine,S,sg g
+järgi,järgi,K,
+on,olema,V,b|vad
+valed,vale,A,pl n
+.,.,Z,
+Valimiste,valimine,S,pl g
+lähedus,lähedus,S,sg n
+ei,ei,V,neg
+tohiks,tohtima,V,ks
+ju,ju,D,
+reformide,reform,S,pl g
+teostamist,teostamine,S,sg p
+takistada,takistama,V,da
+.,.,Z,
+Austatavad,austatav,A,pl n
+kuulajad,kuulaja,S,pl n
+",",",",Z,
+Sel,see,P,sg ad
+laupäeval,laupäev,S,sg ad
+",",",",Z,
+14.,14.,O,?
+septembril,september,S,sg ad
+möödub,mööduma,V,b
+10,10,N,?
+aastat,aasta,S,sg p
+Euroopa,Euroopa,H,sg g
+Liiduga,Liidu|Liidud|Liit,H,sg kom
+ühinemise,ühinemine,S,sg g
+rahvahääletusest,rahvahääletus,S,sg el
+.,.,Z,
+Eesti,Eesti,H,sg n
+on,olema,V,b|vad
+NATOs,NATO,Y,sg in
+.,.,Z,
+Eesti,Eesti,H,sg g
+riigijuhid,riigijuht,S,pl n
+on,olema,V,b|vad
+maailma,maailm,S,sg g
+liidritega,liider,S,pl kom
+ühise,ühine,A,sg g
+laua,laud,S,sg g
+taga,taga,K,
+.,.,Z,
+Ja,ja,J,
+mitte,mitte,D,
+kõigest,kõigest,D,
+häbeliku,häbelik,A,sg g
+sõnatu,sõnatu,A,sg g
+partnerina,partner,S,sg es
+.,.,Z,
+Mulle,mina,P,sg all
+teeb,tegema,V,b
+muret,mure,S,sg p
+",",",",Z,
+et,et,J,
+ikka,ikka,D,
+veel,veel,D,
+võib,võima,V,b
+kohata,kohtama,V,da
+Eesti,Eesti,H,sg g
+avalikkuses,avalikkus,S,sg in
+hoiakut,hoiak,S,sg p
+",",",",Z,
+mille,mis,P,pl g|sg g
+kohaselt,kohaselt,K,
+pole,olema,V,neg o
+inimõiguste,inimõigus,S,pl g
+kaitse,kaitse,S,sg g
+meie,mina,P,pl g
+asi,asi,S,sg n
+.,.,Z,
+Kas,kas,D,
+tõesti,tõesti,D,
+on,olema,V,b|vad
+meil,mina,P,pl ad
+moraalne,moraalne,A,sg n
+õigus,õigus,S,sg n
+loobuda,loobuma,V,da
+inimlikkuse,inimlikkus,S,sg g
+toetamisest,toetamine,S,sg el
+?,?,Z,
+Pidada,pidama,V,da
+kedagi,keegi,P,sg p
+väheväärtuslikuks,väheväärtuslik,A,sg tr
+",",",",Z,
+panna,panema,V,da
+suu,suu,S,sg n
+ja,ja,J,
+silmad,silm,S,pl n
+kinni,kinni,D,
+",",",",Z,
+kui,kui,D|J,
+inimesi,inimene,S,pl p
+riigi,riik,S,sg g
+jõuga,jõud,S,sg kom
+taga,taga,K,
+kiusatakse,kiusama,V,takse
+?,?,Z,
+Vastan,vastama,V,n
+:,:,Z,
+ei,ei,V,neg
+ole,olema,V,o
+",",",",Z,
+eriti,eriti,D,
+meie,mina,P,pl g
+oma,oma,P,sg g
+rahva,rahvas,S,sg g
+20.,20.,O,?
+sajandi,sajand,S,sg g
+kogemusi,kogemus,S,pl p
+meenutades,meenutama,V,des
+.,.,Z,
+Me,mina,P,pl n
+teame,teadma,V,me
+",",",",Z,
+mis,mis,P,pl n|sg n
+on,olema,V,b|vad
+repressioonid,repressioon,S,pl n
+.,.,Z,
+Meie,mina,P,pl g
+paleus,paleus,S,sg n
+peab,pidama,V,b
+olema,olema,V,ma
+inimväärikuse,inimväärikus,S,sg g
+tunnustamine,tunnustamine,S,sg n
+kogu,kogu,A,
+maailmas,maailm,S,sg in
+ja,ja,J,
+rahvusvahelistest,rahvusvaheline,A,pl el
+kokkulepetest,kokkulepe,S,pl el
+kinnipidamine,kinnipidamine,S,sg n
+.,.,Z,
+See,see,P,sg n
+pole,olema,V,neg o
+pelk,pelk,A,sg n
+idealism,idealism,S,sg n
+.,.,Z,
+Väärtuste,väärtus,S,pl g
+põhimõttekindel,põhimõttekindel,A,sg n
+kaitse,kaitse,S,sg n
+on,olema,V,b|vad
+meie,mina,P,pl g
+jaoks,jaoks,K,
+vajalik,vajalik,A,sg n
+ja,ja,J,
+õige,õige,A,sg n
+tee,tee,S,sg n
+.,.,Z,
+Nagu,nagu,D|J,
+ka,ka,D,
+oma,oma,P,sg g
+ühiskonna,ühiskond,S,sg g
+vaimne,vaimne,A,sg n
+kaitse,kaitse,S,sg n
+.,.,Z,
+Me,mina,P,pl n
+ei,ei,V,neg
+saa,saama,V,o
+lasta,laskma,V,da
+end,ise,P,sg p
+halvata,halvama,V,da
+mineviku,minevik,S,sg g
+hirmudest,hirm,S,pl el
+ega,ega,J,
+illusioonidest,illusioon,S,pl el
+.,.,Z,
+Me,mina,P,pl n
+ei,ei,V,neg
+tohiks,tohtima,V,ks
+ka,ka,D,
+matta,matma,V,da
+end,ise,P,sg p
+padupessimismi,padupessimism,S,sg g
+ega,ega,J,
+rehepapluse,rehepaplus,S,sg g
+alla,alla,K,
+",",",",Z,
+me,mina,P,pl n
+ei,ei,V,neg
+tohiks,tohtima,V,ks
+ise,ise,P,pl n|sg n
+kaasa,kaasa,D,
+aidata,aitama,V,da
+Eesti,Eesti,H,sg g
+alavääristamisele,alavääristamine,S,sg all
+.,.,Z,
+Igaüks,igaüks,P,sg n
+meist,mina,P,pl el
+on,olema,V,b|vad
+Eesti,Eesti,H,sg g
+saadik,saadik,S,sg n
+.,.,Z,
+Igaüks,igaüks,P,sg n
+meist,mina,P,pl el
+osaleb,osalema,V,b
+meie,mina,P,pl g
+enesekuvandi,enesekuvand,S,sg g
+ja,ja,J,
+ka,ka,D,
+tegeliku,tegelik,A,sg g
+Eesti,Eesti,H,sg g
+erakordsuse,erakordsus,S,sg g
+loomises,loomine,S,sg in
+ja,ja,J,
+levitamises,levitamine,S,sg in
+.,.,Z,
+Oma,oma,P,sg g
+äsjasel,äsjane,A,sg ad
+USA-reisil,USA-reis,S,sg ad
+sain,saama,V,sin
+taas,taas,D,
+kinnitust,kinnitus,S,sg p
+",",",",Z,
+et,et,J,
+Eestit,Eesti,H,sg p
+võetakse,võtma,V,takse
+maailmas,maailm,S,sg in
+väga,väga,D,
+tõsiselt,tõsiselt,D,
+.,.,Z,
+Nagu,nagu,D|J,
+ütles,ütlema,V,s
+president,president,S,sg n
+Obama,Obama,H,sg n
+–,-,Z,
+me,mina,P,pl n
+oleme,olema,V,me
+elav,elav,A,sg n
+tõestus,tõestus,S,sg n
+sellest,see,P,sg el
+",",",",Z,
+et,et,J,
+üks,üks,P,sg n
+riik,riik,S,sg n
+võib,võima,V,b
+tulla,tulema,V,da
+välja,välja,D,
+olukorrast,olukord,S,sg el
+",",",",Z,
+mis,mis,P,pl n|sg n
+mõnele,mõni,P,sg all
+teisele,teine,O|P,sg all
+näib,näima,V,b
+üle,üle,D,
+jõu,jõud,S,sg g
+käivat,käima,V,vat
+.,.,Z,
+Me,mina,P,pl n
+saame,saama,V,me
+endasse,ise,P,sg ill
+uskuda,uskuma,V,da
+",",",",Z,
+ja,ja,J,
+toetada,toetama,V,da
+selgelt,selgelt,D,
+inim-,inim,S,?
+ja,ja,J,
+kodanikuõigusi,kodanikuõigus,S,pl p
+",",",",Z,
+mille,mis,P,pl g|sg g
+puudumine,puudumine,S,sg n
+meile,mina,P,pl all
+ikka,ikka,D,
+",",",",Z,
+ja,ja,J,
+mõnel,mõni,P,sg ad
+pool,pool,K,
+üha,üha,D,
+enam,enam,D,
+",",",",Z,
+muret,mure,S,sg p
+teeb,tegema,V,b
+.,.,Z,
+Lõpetuseks,lõpetus,S,sg tr
+",",",",Z,
+head,hea,A,pl n
+kolleeegid,kolleeg,S,pl n
+",",",",Z,
+Valimisplakateilt,valimisplakat,S,pl abl
+üle,üle,D,
+Eesti,Eesti,H,sg g
+vaatavad,vaatama,V,vad
+valijate,valija,S,pl g
+poole,poole,K,
+Riigikogu,riigikogu,S,sg g
+liikmed,liige,S,pl n
+ja,ja,J,
+ministrid,minister,S,pl n
+",",",",Z,
+kes,kes,P,pl n|sg n
+kandideerivad,kandideerima,V,vad
+kohalikesse,kohalik,A,pl ill
+volikogudesse,volikogu,S,pl ill
+.,.,Z,
+Mõnigi,mõni,P,sg n
+neist,tema,P,pl el
+ei,ei,V,neg
+plaani,plaan,S,sg g
+sinna,sinna,D,
+tööle,töö,S,sg all
+minna,minema,V,da
+.,.,Z,
+Reklaam,reklaam,S,sg n
+",",",",Z,
+millest,mis,P,pl el|sg el
+on,olema,V,b|vad
+teada,teadma,V,da
+",",",",Z,
+et,et,J,
+kandidaat,kandidaat,S,sg n
+valituks,valitud,A,sg tr
+saades,saama,V,des
+oma,oma,P,sg g
+kohta,kohta,K,
+vastu,vastu,D,
+ei,ei,V,neg
+võta,võtma,V,o
+",",",",Z,
+viib,viima,V,b
+otse,otse,D,
+meie,mina,P,pl g
+erakondliku,erakondlik,A,sg g
+süsteemi,süsteem,S,sg g
+diskrediteerimisele,diskrediteerimine,S,sg all
+.,.,Z,
+See,see,P,sg n
+on,olema,V,b|vad
+silmakirjalik,silmakirjalik,A,sg n
+ja,ja,J,
+võõrandav,võõrandav,A,sg n
+.,.,Z,
+See,see,P,sg n
+põhjustab,põhjustama,V,b
+suhtumist,suhtumine,S,sg p
+",",",",Z,
+mida,mis,P,pl p|sg p
+kuuleme,kuulma,V,me
+ja,ja,J,
+loeme,lugema,V,me
+meediast,meedia,S,sg el
+päevast,päev,S,sg el
+päeva,päev,S,sg p
+.,.,Z,
+Te,sina,P,pl n
+ju,ju,D,
+kõik,kõik,P,pl n|sg n
+teate,teadma,V,te
+",",",",Z,
+et,et,J,
+nii,nii,D,
+on,olema,V,b|vad
+.,.,Z,
+Head,hea,A,pl n
+kolleegid,kolleeg,S,pl n
+.,.,Z,
+Olge,olema,V,ge
+oma,oma,P,sg g
+valijate,valija,S,pl g
+vastu,vastu,K,
+ausad,aus,A,pl n
+.,.,Z,
+On,olema,V,b|vad
+kaks,kaks,N,sg n
+võimalust,võimalus,S,sg p
+.,.,Z,
+Riigikogu,riigikogu,S,sg n
+võib,võima,V,b
+taastada,taastama,V,da
+liikmete,liige,S,pl g
+õiguse,õigus,S,sg g
+osaleda,osalema,V,da
+kohalikes,kohalik,A,pl in
+volikogudes,volikogu,S,pl in
+.,.,Z,
+Sel,see,P,sg ad
+juhul,juht,S,sg ad
+tuleb,tulema,V,b
+põhjalikult,põhjalikult,D,
+läbi,läbi,D,
+vaielda,vaidlema,V,da
+sellise,selline,P,sg g
+olukorra,olukord,S,sg g
+põhiseaduspärasus,põhiseaduspärasus,S,sg n
+",",",",Z,
+ent,ent,J,
+sedagi,see,P,sg p
+ei,ei,V,neg
+maksa,maksma,V,o
+karta,kartma,V,da
+.,.,Z,
+Teine,teine,O|P,sg n
+võimalus,võimalus,S,sg n
+on,olema,V,b|vad
+täita,täitma,V,da
+kehtiva,kehtiv,A,sg g
+seaduse,seadus,S,sg g
+eesmärke,eesmärk,S,pl p
+.,.,Z,
+Sel,see,P,sg ad
+juhul,juht,S,sg ad
+olgu,olema,V,gu
+linna-,linn,S,sg g
+ja,ja,J,
+vallavolikogud,vallavolikogu,S,pl n
+kohalike,kohalik,A,pl g
+liidrite,liider,S,pl g
+päralt,päralt,K,
+.,.,Z,
+Ja,ja,J,
+siis,siis,D,
+tuleks,tulema,V,ks
+ka,ka,D,
+just,just,D|I,
+neid,tema,P,pl p
+valimisvõitluses,valimisvõitlus,S,sg in
+esile,esile,D,
+tõsta,tõstma,V,da
+.,.,Z,
+See,see,P,sg n
+on,olema,V,b|vad
+Riigikogu,Riigikogu,H,sg g
+ehk,ehk,J,
+Eesti,Eesti,H,sg g
+esindusdemokraatia,esindusdemokraatia,S,sg g
+maine,maine,S,sg g
+küsimus,küsimus,S,sg n
+.,.,Z,
+Soovin,soovima,V,n
+Teile,sina,P,pl all
+tegusat,tegus,A,sg p
+istungjärku,istungjärk,S,sg p
+",",",",Z,
+head,hea,A,pl n
+rahvaesindajad,rahvaesindaja,S,pl n
+.,.,Z,
+Ma,mina,P,sg n
+tänan,tänama,V,n
+Teid,sina,P,pl p
+.,.,Z,
