@@ -13,6 +13,14 @@
 # Andmestikus on veel muutujaid, mida tükis ei käsitleta.
 
 
+
+### ARVUTIKLASSIS KASUTAMISEKS (kui pole admin õigusi) ###
+# 1) Mine kohta: "C:/Users/Public/Documents/" (kopeeri see asukohareale) & tee uus kataloog nimega "Rstudio_packages" (kui seda pole)
+# 2) Jooksuta järgmist käsku.
+.libPaths("C:/Users/Public/Documents/Rstudio_packages")
+#    See määrab, et uued paketid installitakse sinna.
+
+
 # See käsk installib vajalikud paketid juhul kui need arvutis puuduvad
 lapply(c("gapminder","tidyverse"), 
        function(x) if(!is.element(x, installed.packages())) install.packages(x, dependencies = T))
@@ -22,7 +30,7 @@ library(gapminder)
 library(tidyverse)
 
 
-
+#gapminder <- read.csv("gapminder.csv")
 
 # Graafik, mis sarnaneb Hans Roslingu esitatule. See võib tunduda esialgu keeruline, aga saab tüki lõpuks mõistetavamaks.
 gapminder %>%
@@ -50,10 +58,8 @@ gapminder %>%
 # mutate() loo uus muutuja
 
 
-# Gapminder andmestik on ettevalmistatud selliselt, et osa andmeid jääb esialgu nähtamatuks. Me saame teha andmestiku nähtavaks
-var <- gapminder
 #Ja võime vaadata seda vajutades sellele ülal-paremal või kasutades view() funktsiooni
-view(var)
+View(gapminderr)
 
 #Viime andmed läbi filtri, kus riigiks peab olema Soome
 finland <- gapminder %>%
